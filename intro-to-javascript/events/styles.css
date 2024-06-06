@@ -1,0 +1,10 @@
+#btn1 {
+    padding: .3% 1%;
+    border: none;
+    border-radius: 5px;
+    cursor: rgb(255, 255, 255);
+    background-color: blue;
+}
+#btn1:hover {
+    background-color: darkturquoise;
+}

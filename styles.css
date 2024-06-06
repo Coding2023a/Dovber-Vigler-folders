@@ -1,0 +1,17 @@
+h1 {
+    color: gold;
+    border: 2px solid silver;
+    text-align: centar;
+    background-color: rgb(215, 250, 245) ;
+}
+#container
+{
+    display: flex;
+    justify-content: space-around;
+}
+#buttons {
+    background-color: cyan;
+    padding: 4%;
+    border: 1px solid;
+    border-radius: 50%;
+}
